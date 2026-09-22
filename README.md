@@ -25,11 +25,11 @@
 
 ### Варіант 1: Запуск готового `.exe` файлу (для користувачів)
 1. Перейдіть у розділ **[Releases](../../releases)** цього репозиторію.
-2. Скачайте файл `aquasense.exe`.
+2. Скачайте файл `aquasense.1.0.exe`.
 3. Запустіть його подвійним кліком миші ( Python встановлювати не потрібно!).
 
 ### Варіант 2: Запуск із вихідного коду (для розробників)
 1. Переконайтеся, що у вас встановлений **Python 3.6+**.
 2. Скачайте або клонуйте репозиторій:
    ```bash
-   git clone [https://github.com/your-username/aquasense.git](https://github.com/your-username/aquasense.git)
+   git clone [https://github.com/kornievrmn-blip/aquasense.git](https://github.com/kornievrmn-blip/aquasense.git)
